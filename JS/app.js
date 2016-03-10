@@ -13,3 +13,11 @@ while(index < students.length) {
   console.log(students[index])
   index++
 }
+
+var others = ["Adam", "Ahmed", "Singh", "Ian", "Ilya"]
+
+var id = 0;
+while(id < others.length) {
+  console.log(others[id]);
+  id++;
+}
